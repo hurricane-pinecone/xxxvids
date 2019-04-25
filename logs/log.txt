@@ -1,0 +1,1043 @@
+"
+2019-04-21 17:20:51.426446 -- 	Starting program. Client: lc"
+2019-04-21 17:20:51.438445 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:20:51.511742 -- 	Processed 51 vehicles.
+2019-04-21 17:20:51.516739 -- 	Creating csv files.
+2019-04-21 17:22:19.978952 -- 	Starting program. Client: lc
+"
+2019-04-21 17:22:19.992948 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370"
+"
+2019-04-21 17:22:20.077322 -- 	Processed 51 vehicles."
+"
+2019-04-21 17:22:20.083320 -- 	Creating csv files."
+"
+2019-04-21 17:22:51.848535 -- 	Starting program. Client: lc"
+2019-04-21 17:22:51.862530 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:22:51.936506 -- 	Processed 51 vehicles.
+2019-04-21 17:22:51.944504 -- 	Creating csv files.
+"
+2019-04-21 17:24:23.843244 -- 	Starting program. Client:lc"
+2019-04-21 17:24:23.858238 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:24:23.935213 -- 	Processed 51 vehicles.
+2019-04-21 17:24:23.943211 -- 	Creating csv files.
+"
+2019-04-21 17:25:11.863242 -- 	Starting program. Client:{client}"
+2019-04-21 17:25:11.878237 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:25:11.952213 -- 	Processed 51 vehicles.
+2019-04-21 17:25:11.958214 -- 	Creating csv files.
+"
+2019-04-21 17:26:13.332320 -- 	Starting program. Client:lc"
+2019-04-21 17:26:13.345312 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:26:13.412797 -- 	Processed 51 vehicles.
+2019-04-21 17:26:13.419795 -- 	Creating csv files.
+"
+2019-04-21 17:27:07.850434 -- 	Starting program. Client:lc"
+2019-04-21 17:27:07.864430 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:27:07.937405 -- 	Processed 51 vehicles.
+2019-04-21 17:27:07.944403 -- 	Creating csv files.
+2019-04-21 17:27:07.956399 -- 	[32mCreated vid-lc.csv
+2019-04-21 17:27:07.965396 -- 	[32mCreated vid-predel-lc.csv
+"
+2019-04-21 17:27:52.927081 -- 	Starting program. Client:lc"
+2019-04-21 17:27:52.945075 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:27:53.022050 -- 	Processed 51 vehicles.
+2019-04-21 17:27:53.030047 -- 	Creating csv files.
+2019-04-21 17:27:53.048042 -- 	Created vid-lc.csv
+2019-04-21 17:27:53.061037 -- 	Created vid-predel-lc.csv
+"
+2019-04-21 17:28:08.622910 -- 	Starting program. Client:lc"
+2019-04-21 17:28:08.635905 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:28:08.701884 -- 	Processed 51 vehicles.
+2019-04-21 17:28:08.707881 -- 	Creating csv files.
+2019-04-21 17:28:08.722877 -- 	Created vid-lc.csv
+2019-04-21 17:28:08.732874 -- 	Created vid-predel-lc.csv
+"
+2019-04-21 17:28:41.561418 -- 	Starting program. Client:lc"
+2019-04-21 17:28:41.575413 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:28:41.677380 -- 	Processed 51 vehicles.
+2019-04-21 17:28:41.682378 -- 	Creating csv files.
+2019-04-21 17:28:41.696375 -- 	Created vid-lc.csv
+2019-04-21 17:28:41.706371 -- 	Created vid-predel-lc.csv
+2019-04-21 17:28:41.716368 -- 	Program finished
+"
+2019-04-21 17:30:45.592259 -- 	Starting program. Client:lc"
+2019-04-21 17:30:45.601256 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:30:45.680231 -- 	Processed 51 vehicles.
+2019-04-21 17:30:45.689228 -- 	Creating csv files.
+2019-04-21 17:30:45.706223 -- 	Created vid-lc.csv
+2019-04-21 17:30:45.717219 -- 	Created vid-predel-lc.csv
+2019-04-21 17:30:45.727216 -- 	Program finished
+"
+2019-04-21 17:31:40.423800 -- 	Starting program. Client:lc"
+2019-04-21 17:31:40.444794 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:31:40.552758 -- 	Processed 51 vehicles.
+2019-04-21 17:31:40.562756 -- 	Creating csv files.
+2019-04-21 17:31:40.578750 -- 	Created vid-lc.csv
+2019-04-21 17:31:40.587747 -- 	Created vid-predel-lc.csv
+2019-04-21 17:31:40.599743 -- 	Program finished
+"
+2019-04-21 17:32:43.057953 -- 	Starting program. Client:lc"
+2019-04-21 17:32:43.076946 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:32:43.145924 -- 	Processed 51 vehicles.
+2019-04-21 17:32:43.151922 -- 	Creating csv files.
+2019-04-21 17:32:43.171915 -- 	Created vid-lc.csv
+2019-04-21 17:32:43.184911 -- 	Created vid-predel-lc.csv
+2019-04-21 17:32:43.191909 -- 	Program finished
+"
+2019-04-21 17:34:08.551078 -- 	Starting program. Client:lc"
+2019-04-21 17:34:08.565074 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+2019-04-21 17:34:17.951291 -- 	Starting program. Client:lc"
+2019-04-21 17:34:17.965287 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:34:18.029266 -- 	Processed 51 vehicles.
+2019-04-21 17:34:18.036263 -- 	Creating csv files.
+2019-04-21 17:34:18.051258 -- 	Created vid-lc.csv
+2019-04-21 17:34:18.064162 -- 	Created vid-predel-lc.csv
+2019-04-21 17:34:18.072153 -- 	Program finished
+"
+2019-04-21 17:34:34.459943 -- 	Starting program. Client:lc"
+2019-04-21 17:34:34.481935 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:34:34.575905 -- 	Processed 51 vehicles.
+2019-04-21 17:34:34.582904 -- 	Creating csv files.
+2019-04-21 17:34:34.596900 -- 	Created vid-lc.csv
+2019-04-21 17:34:34.612893 -- 	Created vid-predel-lc.csv
+2019-04-21 17:34:34.619890 -- 	Program finished
+"
+2019-04-21 17:34:41.789878 -- 	Starting program. Client:lc"
+2019-04-21 17:34:41.801874 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:34:41.878849 -- 	Processed 51 vehicles.
+2019-04-21 17:34:41.886847 -- 	Creating csv files.
+2019-04-21 17:34:41.901842 -- 	Created vid-lc.csv
+2019-04-21 17:34:41.912838 -- 	Created vid-predel-lc.csv
+2019-04-21 17:34:41.921835 -- 	Program finished
+"
+2019-04-21 17:35:01.399007 -- 	Starting program. Client:lc"
+2019-04-21 17:35:01.411003 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:35:01.478981 -- 	Processed 51 vehicles.
+2019-04-21 17:35:01.484979 -- 	Creating csv files.
+2019-04-21 17:35:01.498974 -- 	Created vid-lc.csv
+2019-04-21 17:35:01.509971 -- 	Created vid-predel-lc.csv
+2019-04-21 17:35:01.516969 -- 	Program finished
+"
+2019-04-21 17:35:23.437392 -- 	Starting program. Client:lc"
+2019-04-21 17:35:23.457386 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:35:23.530361 -- 	Processed 51 vehicles.
+2019-04-21 17:35:23.536361 -- 	Creating csv files.
+2019-04-21 17:35:23.549356 -- 	Created vid-lc.csv
+2019-04-21 17:35:23.560354 -- 	Created vid-predel-lc.csv
+2019-04-21 17:35:23.567350 -- 	Program finished
+"
+2019-04-21 17:35:30.695829 -- 	Starting program. Client:lc"
+2019-04-21 17:35:30.710826 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:35:30.787801 -- 	Processed 51 vehicles.
+2019-04-21 17:35:30.793799 -- 	Creating csv files.
+2019-04-21 17:35:30.807793 -- 	Created vid-lc.csv
+2019-04-21 17:35:30.817790 -- 	Created vid-predel-lc.csv
+2019-04-21 17:35:30.825787 -- 	Program finished
+"
+2019-04-21 17:35:52.593915 -- 	Starting program. Client:lc"
+2019-04-21 17:35:52.607911 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 17:35:52.673397 -- 	Processed 51 vehicles.
+2019-04-21 17:35:52.680395 -- 	Creating csv files.
+2019-04-21 17:35:52.693390 -- 	Created vid-lc.csv
+2019-04-21 17:35:52.703678 -- 	Created vid-predel-lc.csv
+2019-04-21 17:35:52.711676 -- 	Program finished
+"
+2019-04-21 21:43:32.381905 -- 	Starting program. Client:lc"
+2019-04-21 21:43:32.397899 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:43:32.407896 -- 	Could not find input file.
+2019-04-21 21:43:32.415893 -- 	Program finished
+"
+2019-04-21 21:43:49.550803 -- 	Starting program. Client:lc"
+2019-04-21 21:43:49.564791 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:43:49.575787 -- 	Could not find input file.
+2019-04-21 21:43:49.582786 -- 	Program finished
+"
+2019-04-21 21:44:46.738258 -- 	Starting program. Client:lc"
+2019-04-21 21:44:46.752254 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:44:46.762250 -- 	Could not find input file.
+2019-04-21 21:44:46.770249 -- 	Program finished
+"
+2019-04-21 21:44:56.011097 -- 	Starting program. Client:LC"
+2019-04-21 21:44:56.021095 -- 	There was no site matching that input argument.
+2019-04-21 21:44:56.028092 -- 	Program finished
+"
+2019-04-21 21:45:11.763846 -- 	Starting program. Client:lc"
+2019-04-21 21:45:11.780841 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:45:11.789840 -- 	Could not find input file.
+2019-04-21 21:45:11.797855 -- 	Program finished
+"
+2019-04-21 21:47:32.010294 -- 	Starting program. Client:lc"
+2019-04-21 21:47:32.028288 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:47:32.039285 -- 	Could not find input file.
+2019-04-21 21:47:32.046282 -- 	Program finished
+"
+2019-04-21 21:47:55.644684 -- 	Starting program. Client:lc"
+2019-04-21 21:47:55.660679 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:47:55.670676 -- 	Could not find input file.
+2019-04-21 21:47:55.678674 -- 	Program finished
+"
+2019-04-21 21:48:19.839831 -- 	Starting program. Client:lc"
+2019-04-21 21:48:19.851827 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:50:23.534423 -- 	Could not find input file.
+2019-04-21 21:50:23.545418 -- 	Program finished
+"
+2019-04-21 21:51:00.642397 -- 	Starting program. Client:lc"
+2019-04-21 21:51:00.658392 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:51:00.669389 -- 	Could not find input file.
+2019-04-21 21:51:00.676392 -- 	Program finished
+"
+2019-04-21 21:51:51.341033 -- 	Starting program. Client:lc"
+2019-04-21 21:51:51.355028 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:51:51.432655 -- 	Could not find input file.
+2019-04-21 21:51:51.439653 -- 	Program finished
+"
+2019-04-21 21:52:41.602316 -- 	Starting program. Client:lc"
+2019-04-21 21:52:41.616311 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:52:41.698284 -- 	Could not find input file.
+2019-04-21 21:52:41.705282 -- 	Program finished
+"
+2019-04-21 21:53:21.101907 -- 	Starting program. Client:lc"
+2019-04-21 21:53:21.115902 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:53:21.194876 -- 	Could not find input file.
+2019-04-21 21:53:21.203873 -- 	Program finished
+"
+2019-04-21 21:54:06.401144 -- 	Starting program. Client:lc"
+2019-04-21 21:54:06.414134 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:54:06.473445 -- 	Could not find input file.
+2019-04-21 21:54:06.480443 -- 	Program finished
+"
+2019-04-21 21:54:17.677306 -- 	Starting program. Client:lc"
+2019-04-21 21:54:17.690302 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:54:17.718293 -- 	Processed 49 vehicles.
+2019-04-21 21:54:17.725292 -- 	Creating csv files.
+2019-04-21 21:54:17.739286 -- 	Created vid-lc.csv
+2019-04-21 21:54:17.753282 -- 	Created vid-predel-lc.csv
+2019-04-21 21:54:17.760383 -- 	Program finished
+"
+2019-04-21 21:59:11.718011 -- 	Starting program. Client:lc"
+2019-04-21 21:59:11.731006 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 21:59:11.757998 -- 	Processed 49 vehicles.
+2019-04-21 21:59:11.765995 -- 	Creating csv files.
+2019-04-21 21:59:11.777992 -- 	Created vid-lc.csv
+2019-04-21 21:59:11.787992 -- 	Created vid-predel-lc.csv
+2019-04-21 21:59:11.794986 -- 	Program finished
+"
+2019-04-21 22:21:59.142352 -- 	Starting program. Client:lc"
+2019-04-21 22:21:59.153349 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:21:59.182340 -- 	Processed 49 vehicles.
+2019-04-21 22:21:59.188342 -- 	Creating csv files.
+2019-04-21 22:21:59.202333 -- 	Created vid-lc.csv
+2019-04-21 22:21:59.212333 -- 	Created vid-predel-lc.csv
+2019-04-21 22:21:59.219332 -- 	Program finished
+"
+2019-04-21 22:24:04.489812 -- 	Starting program. Client:lc"
+2019-04-21 22:24:04.503808 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:24:04.533100 -- 	Processed 49 vehicles.
+2019-04-21 22:24:04.541098 -- 	Creating csv files.
+2019-04-21 22:24:04.555094 -- 	Created vid-lc.csv
+2019-04-21 22:24:04.565498 -- 	Created vid-predel-lc.csv
+2019-04-21 22:24:04.571671 -- 	Program finished
+"
+2019-04-21 22:29:00.652990 -- 	Starting program. Client:lc"
+2019-04-21 22:29:00.663987 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:29:00.690978 -- 	Processed 49 vehicles.
+2019-04-21 22:29:00.696977 -- 	Creating csv files.
+2019-04-21 22:29:00.708971 -- 	Created vid-lc.csv
+2019-04-21 22:29:00.718971 -- 	Created vid-predel-lc.csv
+2019-04-21 22:29:00.725966 -- 	Program finished
+"
+2019-04-21 22:29:27.698996 -- 	Starting program. Client:lc"
+2019-04-21 22:29:27.710993 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:29:27.736983 -- 	Processed 49 vehicles.
+2019-04-21 22:29:27.743982 -- 	Creating csv files.
+2019-04-21 22:29:27.756978 -- 	Created vid-lc.csv
+2019-04-21 22:29:27.767974 -- 	Created vid-predel-lc.csv
+2019-04-21 22:29:27.773972 -- 	Program finished
+"
+2019-04-21 22:37:11.816856 -- 	Starting program. Client:lc"
+2019-04-21 22:37:11.827848 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:37:11.855841 -- 	Processed 49 vehicles.
+2019-04-21 22:37:11.862837 -- 	Creating csv files.
+2019-04-21 22:37:11.874832 -- 	Created vid-lc.csv
+2019-04-21 22:37:11.884831 -- 	Created vid-predel-lc.csv
+2019-04-21 22:37:11.891827 -- 	Program finished
+"
+2019-04-21 22:38:03.056716 -- 	Starting program. Client:lc"
+2019-04-21 22:38:03.069711 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:38:03.096703 -- 	Processed 49 vehicles.
+2019-04-21 22:38:03.105700 -- 	Creating csv files.
+2019-04-21 22:38:03.120696 -- 	Created vid-lc.csv
+2019-04-21 22:38:03.130692 -- 	Created vid-predel-lc.csv
+2019-04-21 22:38:03.138689 -- 	Program finished
+"
+2019-04-21 22:38:24.004031 -- 	Starting program. Client:lc"
+2019-04-21 22:38:24.016029 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:38:24.042024 -- 	Processed 49 vehicles.
+2019-04-21 22:38:24.049017 -- 	Creating csv files.
+2019-04-21 22:38:24.063013 -- 	Created vid-lc.csv
+2019-04-21 22:38:24.073009 -- 	Created vid-predel-lc.csv
+2019-04-21 22:38:24.081007 -- 	Program finished
+"
+2019-04-21 22:38:39.064908 -- 	Starting program. Client:lc"
+2019-04-21 22:38:39.076904 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+2019-04-21 22:38:39.105894 -- 	Processed 49 vehicles.
+2019-04-21 22:38:39.112892 -- 	Creating csv files.
+2019-04-21 22:38:39.125888 -- 	Created vid-lc.csv
+2019-04-21 22:38:39.136884 -- 	Created vid-predel-lc.csv
+2019-04-21 22:38:39.143882 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Sun 21 04 2019 -- 	Starting program. Client:lc"
+Sun 21 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Sun 21 04 2019 -- 	Processed 49 vehicles.
+Sun 21 04 2019 -- 	Creating csv files.
+Sun 21 04 2019 -- 	Created vid-lc.csv
+Sun 21 04 2019 -- 	Created vid-predel-lc.csv
+Sun 21 04 2019 -- 	Program finished
+"
+Mon 22 04 2019 -- 	Starting program. Client:;c"
+Mon 22 04 2019 -- 	There was no site matching that input argument.
+Mon 22 04 2019 -- 	Program finished
+"
+Mon 22 04 2019 -- 	Starting program. Client:lc"
+Mon 22 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Mon 22 04 2019 -- 	Processed 49 vehicles.
+Mon 22 04 2019 -- 	Creating csv files.
+Mon 22 04 2019 -- 	Created vid-lc.csv
+Mon 22 04 2019 -- 	Created vid-predel-lc.csv
+Mon 22 04 2019 -- 	Program finished
+"
+Mon 22 04 2019 -- 	Starting program. Client:lc"
+Mon 22 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Mon 22 04 2019 -- 	Processed 49 vehicles.
+Mon 22 04 2019 -- 	Creating csv files.
+Mon 22 04 2019 -- 	Created vid-lc.csv
+Mon 22 04 2019 -- 	Created vid-predel-lc.csv
+Mon 22 04 2019 -- 	Program finished
+"
+Mon 22 04 2019 -- 	Starting program. Client:lc"
+Mon 22 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Mon 22 04 2019 -- 	Processed 49 vehicles.
+Mon 22 04 2019 -- 	Creating csv files.
+Mon 22 04 2019 -- 	Created vid-lc.csv
+Mon 22 04 2019 -- 	Created vid-predel-lc.csv
+Mon 22 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:test"
+Wed 24 04 2019 -- 	There was no site matching that input argument.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:LC"
+Wed 24 04 2019 -- 	There was no site matching that input argument.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Could not find input file.
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	[31mCould not find input file input-l.csv <class 'FileNotFoundError'> [Errno 2] No such file or directory: 'input-l.csv' <traceback object at 0x03526260>
+Wed 24 04 2019 -- 	[31mCould not find input file input-c.csv <class 'FileNotFoundError'> [Errno 2] No such file or directory: 'input-c.csv' <traceback object at 0x03526300>
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+"
+Wed 24 04 2019 -- 	Starting program. Client:lc"
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au Danny.Wilson@auspost.com.au Catherine.Fahy@auspost.com.au	0409236850 0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC with acces: David.Nailer@auspost.com.au;Danny.Wilson@auspost.com.au;Catherine.Fahy@auspost.com.au	0409236850;0476817370
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Wed 24 04 2019 -- 	Attempting to create files for LC
+Wed 24 04 2019 -- 	Processed 49 vehicles.
+Wed 24 04 2019 -- 	Creating csv files.
+Wed 24 04 2019 -- 	Created vid-lc.csv
+Wed 24 04 2019 -- 	Created vid-predel-lc.csv
+Wed 24 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Attempting to create files for LC
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
+Thu 25 04 2019 -- 	Processed 49 vehicles.
+Thu 25 04 2019 -- 	Creating csv files.
+Thu 25 04 2019 -- 	Created vid-lc.csv
+Thu 25 04 2019 -- 	Created vid-predel-lc.csv
+Thu 25 04 2019 -- 	Program finished
